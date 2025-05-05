@@ -129,12 +129,55 @@
   </div>
 
   <br />
-  <h1 align="center">
+    <h1 align="center">𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬</h1>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+  <!-- repo 1 -->
+  <a align="right" href="https://github.com/akini072/UI-library-tailwind" title="UI-library-tailwind">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=UI-library-tailwind&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=UI-library-tailwind=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=UI-library-tailwind&theme=graywhite&border_radius=10.0" alt="akini072's repository stats - UI-library-tailwind" />
+    </picture>
+  </a>
+
+  <!-- repo 2 -->
+  <a align="left" href="https://github.com/akini072/Vue3-Dashboard-Swin" title="Vue3-Dashboard-Swin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=Vue3-Dashboard-Swin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=Vue3-Dashboard-Swin&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akini072&Vue3-Dashboard-Swin&theme=graywhite&border_radius=10" alt="akini072's repository stats - Vue3-Dashboard-Swin" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <!-- repo 3 -->
+  <a align="left" href="https://github.com/akini072/Trading-Landing-Page-Next" title="Trading-Landing-Page-Next">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=Trading-Landing-Page-Next&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=Trading-Landing-Page-Next&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=Trading-Landing-Page-Next&theme=graywhite&border_radius=10" alt="akini072's repository stats - MERN Admin Dashboard" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a align="right" href="https://github.com/akini072/shop-control" title="shop-control">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=shop-control&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=shop-control&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akini072&repo=shop-control&theme=graywhite&border_radius=10" alt="akini072's repository stats - shop-control SaaS Landing Page" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h1 align="center">
    𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐦𝐲 𝐩𝐚𝐠𝐞!
     <img
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png"
       alt="Heart Hands" width="25" height="25" />
-  </h1>
+  </h>
 
 </body>
 
